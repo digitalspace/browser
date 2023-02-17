@@ -85,7 +85,7 @@ jobs:
 
       - name: Rename NPM package
         run: |
-          ORG_NAME="zxing-js"
+          ORG_NAME="digitalspace"
           PACKAGE_NAME="@$ORG_NAME/$REPOSITORY_NAME"
           tar -xzf ./pack-artifact/package.tgz
           cd ./package

@@ -1,7 +1,7 @@
 {
-    "name": "@zxing/browser",
+    "name": "@digitalspace/browser",
     "version": "0.1.1",
-    "description": "ZXing for JS's browser layer.",
+    "description": "Digitalspace's fork of ZXing for JS's browser layer.",
     "keywords": [
         "reader",
         "writer",
@@ -16,21 +16,11 @@
         "typescript",
         "zxing"
     ],
-    "authors": [
-        {
-            "name": "David Werth",
-            "email": "werth.david@gmail.com"
-        },
-        {
-            "name": "Luiz Barni",
-            "email": "machado@odahcam.com"
-        }
-    ],
     "license": "MIT",
-    "bugs": "https://github.com/zxing-js/browser/issues/new",
+    "bugs": "https://github.com/digitalspace/browser/issues/new",
     "repository": {
         "type": "git",
-        "url": "https://github.com/zxing-js/browser"
+        "url": "https://github.com/digitalspace/browser"
     },
     "private": false,
     "main": "./cjs/index.js",
